@@ -147,21 +147,6 @@ This project has a MIT License. See the [LICENSE](./LICENSE) file for more detai
 * [Tailwind CSS](https://tailwindcss.com/) - CSS framework
 * [Framer Motion](https://www.framer.com/motion/) - Animation library
 
-## 📫 Contact
-
-Your Name - [@kousik-maity](https://www.linkedin.com/in/kousik-maity/)
-
-Project Link: [Vercel Link](https://v0-weatherapp-beta.vercel.app/)
-
----
-
-<div align="center">
-  <h3>Made with ❤️ by Kousik Maity</h3>
-  
-  [![GitHub followers](https://img.shields.io/github/followers/yourusername?label=Follow&style=social)](https://github.com/kousik1314)
-  [![GitHub stars](https://img.shields.io/github/stars/yourusername/weather-checker?style=social)](https://v0-weatherapp-beta.vercel.app/)
-</div>
-
 ## 📸 Project Screenshots
 
 <details>
@@ -183,8 +168,24 @@ Project Link: [Vercel Link](https://v0-weatherapp-beta.vercel.app/)
 ![image](https://github.com/user-attachments/assets/162bf0d9-2308-4e35-858e-cdc11ffbbf70)
 
 ### Search Functionality
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/3811eb98-a4a0-4694-9b47-ffb797c2c090)
+
 
 </details>
 
 ---
+
+## 📫 Contact
+
+Your Name - [@kousik-maity](https://www.linkedin.com/in/kousik-maity/)
+
+Project Link: [Vercel Link](https://v0-weatherapp-beta.vercel.app/)
+
+---
+
+<div align="center">
+  <h3>Made with ❤️ by Kousik Maity</h3>
+  
+  [![GitHub followers](https://img.shields.io/github/followers/yourusername?label=Follow&style=social)](https://github.com/kousik1314)
+  [![GitHub stars](https://img.shields.io/github/stars/yourusername/weather-checker?style=social)](https://v0-weatherapp-beta.vercel.app/)
+</div>
