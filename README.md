@@ -149,17 +149,17 @@ This project has a MIT License. See the [LICENSE](./LICENSE) file for more detai
 
 ## 📫 Contact
 
-Your Name - [@yourtwitter](https://twitter.com/yourtwitter)
+Your Name - [@kousik-maity](https://www.linkedin.com/in/kousik-maity/)
 
-Project Link: [https://github.com/yourusername/weather-checker](https://github.com/yourusername/weather-checker)
+Project Link: [Vercel Link](https://v0-weatherapp-beta.vercel.app/)
 
 ---
 
 <div align="center">
-  <h3>Made with ❤️ by Your Name</h3>
+  <h3>Made with ❤️ by Kousik Maity</h3>
   
-  [![GitHub followers](https://img.shields.io/github/followers/yourusername?label=Follow&style=social)](https://github.com/yourusername)
-  [![GitHub stars](https://img.shields.io/github/stars/yourusername/weather-checker?style=social)](https://github.com/yourusername/weather-checker)
+  [![GitHub followers](https://img.shields.io/github/followers/yourusername?label=Follow&style=social)](https://github.com/kousik1314)
+  [![GitHub stars](https://img.shields.io/github/stars/yourusername/weather-checker?style=social)](https://v0-weatherapp-beta.vercel.app/)
 </div>
 
 ## 📸 Project Screenshots
@@ -176,13 +176,14 @@ Project Link: [https://github.com/yourusername/weather-checker](https://github.c
 
 
 ### Mobile View
-![Mobile View](screenshots/mobile.png)
+![image](https://github.com/user-attachments/assets/6f8c6849-4bac-423c-ac06-5fb4e901e08c)
+
 
 ### Weather Details
-![Weather Details](screenshots/weather-details.png)
+![image](https://github.com/user-attachments/assets/162bf0d9-2308-4e35-858e-cdc11ffbbf70)
 
 ### Search Functionality
-![Search Demo](screenshots/search-demo.png)
+![Uploading image.png…]()
 
 </details>
 
