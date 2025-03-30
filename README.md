@@ -168,10 +168,12 @@ Project Link: [https://github.com/yourusername/weather-checker](https://github.c
 <summary><strong>Click to view screenshots</strong></summary>
 
 ### Desktop View - Light Mode
-![Desktop Light](screenshots/desktop-light.png)
+![image](https://github.com/user-attachments/assets/8c145a97-c47f-4330-9302-8c82a421f0d0)
+
 
 ### Desktop View - Dark Mode
-![Desktop Dark](screenshots/desktop-dark.png)
+![image](https://github.com/user-attachments/assets/28a5452e-fa70-4df2-8e36-31afaefe1764)
+
 
 ### Mobile View
 ![Mobile View](screenshots/mobile.png)
